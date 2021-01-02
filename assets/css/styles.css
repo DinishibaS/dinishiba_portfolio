@@ -352,7 +352,7 @@ img{
     border-radius: .5rem;
 }
 .contact__button{
-    display: block;
+    display: inline;
     background-color: var(--first-color);
     color: var(--white-color);
     padding: .75rem 2.5rem;
